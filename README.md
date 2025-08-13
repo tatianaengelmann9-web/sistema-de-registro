@@ -4,3 +4,6 @@
 
 para ejecutar el sistema,debes poner:
 ```hpm install react```
+
+
+sistema de registro 2 
